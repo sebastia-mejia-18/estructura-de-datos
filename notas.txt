@@ -1,0 +1,29 @@
+datos primitivos
+ -string -> todo valor conciderado textos (encerrado entre "")
+
+ -number -> Todo valor conciderado numero
+
+ -boolean -> Todo valor logico (true o false)
+
+ -null -> Todo valor sin determinar (no tiene valor)
+
+ -underfinded -> Todo valor sin incializar
+
+
+
+ Datos de referencia
+
+ -Arreglos-> Espacio en memoria que almacena multiples tipos de datos
+ (datos primitivos o por referencia)
+
+  ->Tamaño: esta definido por la cantidad de elementos
+  que hay dentro del arreglo
+
+  ->Pociciones: Define el espacio interno del arreglo
+  donde esta ubicado un elemento
+
+  ->Loop-bucle-Repeticion o referencia directa
+  
+
+ -Objetos -> estructura de informacion agrupada por una par de elementos:
+ "llave": valor (el valor puede ser caulquier tipo de dato)
